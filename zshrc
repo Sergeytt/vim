@@ -10,6 +10,8 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="geoffgarside"
 #ZSH_THEME="robbyrussell"
 
+ZSH_TMUX_AUTOSTART='true'
+
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
 # cause zsh load theme from this variable instead of
